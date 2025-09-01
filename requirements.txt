@@ -1,0 +1,8 @@
+fenics_dolfinx==0.6.0
+fenics_ufl==2023.1.1.post0
+gmsh==4.13.1
+mpi4py==4.1.0
+numpy==1.21.6
+numpy==1.21.5
+petsc4py==3.23.6
+pyvista==0.45.2
